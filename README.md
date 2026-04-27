@@ -3,6 +3,9 @@
   <img src="human-heart.avif" width="300"/>
 </p>
 
+[Go to direct on live web](https://heart-failure-prediction-web-app.streamlit.app/).
+
+
 ## 📌 Overview
 This project is an end-to-end Machine Learning application that predicts the risk of heart failure based on clinical features.
 
@@ -70,3 +73,6 @@ ML_Deployment/
 └── README.md
 
 [LinkedIn- Sumit Ghodke](https://www.linkedin.com/in/sumit-ghodke-a45a82205/)
+
+
+[Go to direct on live web](https://heart-failure-prediction-web-app.streamlit.app/).
